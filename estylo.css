@@ -1,0 +1,39 @@
+header{
+    background-color: black;
+    padding: 2px;
+    margin:0;
+
+}
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: yellow;
+}
+body{
+    margin: 0;
+    background-color: #ededed;
+}
+.launch{
+    display: flex;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0px 0px 15px #aaa;
+    border: 2px solid #aaa;
+    border-radius: 20px;
+    margin: auto;
+    width: fit-content;
+}
+.boton{
+    padding: 0px 5px;
+}
+.sound{
+    width: 70px;
+    height: 70px;
+    border: outset;
+    background-color: palevioletred;
+    border-color:pink ;
+    border-radius: 10px;
+    display: block;
+    margin: 1px;
+}
